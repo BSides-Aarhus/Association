@@ -27,7 +27,7 @@ The current annual fee for 2020 is 50 dkk.
 
 # §5 General Assembly
 The general assembly meeting is the supreme authority of the association and consists of the association
-members. The annual general assembly meeting is held once a year before the end of June
+members. The annual general assembly meeting is held once a year before the end of December
 month and facilitated by the Board.
 
 The general assembly meeting must be facilitated electronically to the members with at least 3 weeks' notice
@@ -52,7 +52,7 @@ However, the chairman and treasurer must be 18.
 The Board of Directors is responsible for the operation of the association between the general meetings and is elected by members at the annual meeting.
 The chairman must have been a member for a minumum of one year.
 
-The Board of Directors consists of minimum 4 members:
+The Board of Directors consists of minimum 5 members:
 * Chairman
 * Accountant
 * 2 supplements for the above mentioned roles
