@@ -100,4 +100,4 @@ In the event of dissolving, the assets of the association are given to charitabl
 the dissolving general assembly.
 
 # §12 Date of establishment
-Thus, adopted at the founding general assembly meeting on Date, Year.
+Thus, adopted at the founding general assembly meeting on 13th Febuary, 2020.
