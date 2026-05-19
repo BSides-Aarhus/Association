@@ -23,21 +23,21 @@ The articles of association for BSides Aarhus can be found here:
 [https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md](https://github.com/BSides-Aarhus/Association/blob/master/articles_of_association.md)
 
 ## Board members
-- Bjarke Petersen
 - Kristian Bodeholt
 - Dennis Perto
 - Thomas Ljungberg Kristensen
 - Morten Eskildsen
 - Tobias Evar Lauridsen
+- Anna Dahl Andersen
   
 ## Meeting Minutes
 11/03 2025 - [Founding General Assembly (danish)](https://github.com/BSides-Aarhus/Association/blob/master/meetings/11032025%20-%20Referat%20-%20Stiftende%20Generalforsamling.pdf)  
-DATE - [Constituent Board Meeting (danish)]()  
+8/4 2025 - [Constituent Board Meeting (danish)](https://github.com/BSides-Aarhus/BSides-Aarhus-Association/blob/master/meetings/08042025%20-%20Referat%20af%20konstituerende%20bestyrelsesm%C3%B8de.pdf)  
 
 # Code of Conduct
 Our draft CoC can be found here:  
 [https://github.com/BSides-Aarhus/Association/blob/master/code_of_conduct.md](https://github.com/BSides-Aarhus/Association/blob/master/code_of_conduct.md)
 
 # Contact & Social Media
-For further information about BSides Aarhus and related events please contact [info@bsidesaar.dk](mailto:info@bsidesaarhus.dk)
+For further information about BSides Aarhus and related events please contact [info@bsidesaarhus.dk](mailto:info@bsidesaarhus.dk)
 
