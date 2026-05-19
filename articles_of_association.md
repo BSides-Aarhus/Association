@@ -25,7 +25,7 @@ If you do not pay the annual fee you are no longer a member. The membership peri
 The current annual fee for 2025 is 100 dkk
 
 # §5 General Assembly
-The general assembly meeting is the supreme authority of the association and consists of the association members. The annual general assembly meeting is held once a year before the end of December month and facilitated by the Board.
+The general assembly meeting is the supreme authority of the association and consists of the association members. The Annual General Assembly is convened once per year, within four months following the close of the financial year, and is arranged by the Board.
 
 The general assembly meeting must be facilitated electronically to the members with at least 3 weeks' notice stating the agenda.
 
