@@ -1,95 +1,94 @@
-# §1 Purpose of the BSides Aarhus Association
-The purpose of the association is to facilitate an annual, one to two days conference for information security practitioners and those interested in (or looking to) enter the field. The events are held in Aarhus, Denmark.
+# §1 Formål
+Foreningens formål er at afholde en årlig konference af en til to dages varighed for informationssikkerhedsprofessionelle samt personer med interesse i at arbejde inden for fagområdet. Arrangementerne afholdes i Aarhus, Danmark.
+BSides Aarhus er et praktisk orienteret, community-drevet teknisk sikkerheds- og hackingmøde.
 
-BSides Aarhus is a hands-on, community-organized technical security and hacking event. 
+Arrangementerne skal være en kilde til læring, kommunikation og samarbejde. Præsentationerne gives i en ånd af faglig kollegialitet og med henblik på vidensdeling inden for alle tekniske specialer. Dette giver informationssikkerhedsfeltet mulighed for at vokse og fortsætte sin stræben mod en verden, hvor privatlivets fred og sikkerhed er opnåelig.
 
-The events should be a source of learning, communication, and collaboration. The presentations at events are given in the spirit of peer review and for the dissemination of knowledge among all technical specialties.  This allows the field of Information Security to grow and continue its pursuit of a world where privacy and security are attainable.
+Foreningen er en non-profit organisation. Hverken arrangører eller frivillige må modtage betaling for deres ydelser. Kun dækning af udgifter (transport, mad mv.), der er godkendt af bestyrelsen, kan refunderes.
 
-The association is a non-profit organization meaning that no organisers or volunteers are to be paid for their services.
-Only coverage of expenses (transport, food etc.) that are agreed upon by the organizers can be covered.
-
-# §2 Association location
+# §2 Hjemsted
 Aarhus, Denmark
 
-# §3 Membership conditions & exclusions
-The association receives applications for membership from all interested parties.  
-Members have voting rights at the general meeting when they are 16 years of age after one month's membership.
-All members should obey the code of conduct. The consequence of breaching the code of conduct can result in exclusion as a member. 
-Members who, in the opinion of the Board, perceive their conduct directly or indirectly counteracts the purpose of the association, must - for a period of time or permanently - be able to excluded by the association.
-This is decided solely by the Board of Directors. 
-A excluded member may request in writing that the exclusion be tried on the first general Assembly.
+# §3 Medlemsbetingelser og eksklusion
+Foreningen optager ansøgninger om medlemskab fra alle interesserede.
+Medlemmer har stemmeret på generalforsamlingen, når de er fyldt 16 år og har været medlem i mindst én måned.
 
-# §4 Membership fee
-The association's annual fee is determined at the annual general meeting. Board of Directors decides who can be admitted.
-If you do not pay the annual fee you are no longer a member. The membership period is January to January.
-The current annual fee for 2025 is 100 dkk
+Alle medlemmer skal overholde foreningens adfærdskodeks. Overtrædelse af adfærdskodekset kan medføre eksklusion.
+Medlemmer, hvis adfærd efter bestyrelsens opfattelse direkte eller indirekte modvirker foreningens formål, kan - for en periode eller permanent - ekskluderes af foreningen. Denne beslutning træffes alene af bestyrelsen. Et ekskluderet medlem kan skriftligt anmode om, at eksklusionen prøves på den næste generalforsamling.
 
-# §5 General Assembly
-The general assembly meeting is the supreme authority of the association and consists of the association members. The Annual General Assembly is convened once per year, within four months following the close of the financial year, and is arranged by the Board.
+Bestyrelsen kan nægte eller tilbagekalde optagelse, såfremt der er en specifik og dokumenteret grund til at antage, at ansøgeren vil overtræde adfærdskodekset eller handle imod foreningens formål. En sådan beslutning kan ankes til den næste generalforsamling.
 
-The general assembly meeting must be facilitated electronically to the members with at least 3 weeks' notice stating the agenda.
+# §4 Kontingent
+Foreningens årlige kontingent fastsættes på den ordinære generalforsamling. Det sidst fastsatte kontingent gælder, indtil et nyt kontingent vedtages.
+Betales kontingentet ikke, ophører medlemskabet. Kontingentperioden følger kalenderåret (januar til december).
 
-The agenda of the General Assembly shall contain at least the following items:
-1. The Board of Directors' report is presented for debate and approval  
-2. The audited accounts are presented for debate and approval
-3. Vote of board members and accountant
-4. Determination of any annual fee per January 1st
-5. Consideration of proposals received
-6. Optionally.
+# §5 Generalforsamling
+Generalforsamlingen er foreningens øverste myndighed og består af foreningens medlemmer. Den ordinære generalforsamling afholdes én gang om året, inden fire måneder efter regnskabsårets afslutning, og indkaldes af bestyrelsen.
 
-Proposals that are to be considered at the general meeting must be in the hands of the chairman no later than 14 days before the general meeting. Final agenda, including the necessary annexes, must reach the general meeting no later than 7 days before the meeting.
-The decisions of the General Assembly shall be decided by a simple majority of votes.
-This means that proposals by ballot cannot be adopted.
+Indkaldelsen skal sendes elektronisk til alle medlemmer med mindst 3 ugers varsel med angivelse af dagsorden.
+Dagsordenen for den ordinære generalforsamling skal som minimum indeholde følgende punkter:
+1. Bestyrelsens beretning fremlægges til debat og godkendelse
+2. Seneste årsregnskab fremlægges til debat og godkendelse
+3. Valg af bestyrelsesmedlemmer og revisor
+4. Fastsættelse af kontingent pr. 1. januar
+5. Behandling af indkomne forslag
+6. Eventuelt
 
-# §6 Board of Directors
-Anyone over the age of 16 can be elected to the Board of Directors.
-However, the chairman and treasurer must be 18.
-The Board of Directors is responsible for the operation of the association between the general meetings and is elected by members at the annual meeting.
-The chairman must have been a member for a minumum of one year.
+Forslag, der ønskes behandlet på generalforsamlingen, skal være formanden i hænde senest 14 dage før mødet. Den endelige dagsorden inkl. bilag skal være alle deltagere i hænde senest 7 dage før mødet.
 
-The Board of Directors consists of 6 members:
-* Chairman
-* Treasurer
-* 2 supplements for the above mentioned roles
-* Board members are elected for a two-year term, so that half of the Board of Directors members / supplements are up for election one year and the other half is up for election following year.
-* Supplement members of the Board of Directors is elected each year. If a board member leaves the board of directors during the election period the supplement takes the place and the board distributes the items between themselves again.
+Generalforsamlingens beslutninger træffes ved simpelt flertal af de afgivne stemmer. Forslag, der ikke er indsendt rettidigt i henhold til ovenstående frister, kan ikke sættes til afstemning.
 
-During the term of office, a vote of confidence can only be decided upon on a extraordinary general meeting. After each ordinary general meeting, the board of directors constitutes itself internally.
-The general assembly outcome is signed by the chairman or, in the absence of the chairman, two members of the board.
+En ekstraordinær generalforsamling kan indkaldes af bestyrelsen, når det skønnes nødvendigt, eller på skriftlig anmodning fra mindst 1/4 af de stemmeberettigede medlemmer. Den ekstraordinære generalforsamling skal indkaldes elektronisk til alle medlemmer med mindst 3 ugers varsel med angivelse af dagsorden. Kun de punkter, der fremgår af dagsordenen, kan behandles og sættes til afstemning. De samme krav til flertal gælder som ved den ordinære generalforsamling.
 
-The Board of Directors has the overall responsibility for planning and running associations events/conferences.
+# §6 Bestyrelsen
+Alle over 16 år kan vælges til bestyrelsen. Formanden og kassereren skal dog være fyldt 18 år. Bestyrelsen er ansvarlig for foreningens drift mellem generalforsamlingerne og vælges af medlemmerne på den ordinære generalforsamling. Formanden skal have været medlem i minimum ét år inden valget.
 
-# §7 Economics
-The association has as an income from:
-* Memberships.
-* Sponsorships in connection with organising events/conferences.
-* Merchandise.
-* Excess profits from past events/conferences.
+Bestyrelsen består af 6 medlemmer:
+- Formand
+- Kasserer
+- 4 ordinære bestyrelsesmedlemmer
 
-# §8 Financial Accounting
-The association's financial year follows the calendar year.
-An auditor/accountant is elected each year at the general assembly meeting.
+Herudover vælges 1-2 suppleanter.
 
-A yearly budget is presented by the currently selected accountant and evaluated at the annual general assembly.
+Alle bestyrelsesmedlemmer vælges for to år, undtagen suppleanter, der vælges for ét år. Hvis et bestyrelsesmedlem udtræder i valgperioden, overtager suppleanten pladsen, og bestyrelsen fordeler posterne imellem sig. Efter hver ordinær generalforsamling konstituerer bestyrelsen sig internt.
 
-# §9 Legal
-The association is signed outward by the signature of the chairman or at least one additional board member in association.  
-If raising loans and selling / mortgaging real estate, the association is signed by the entire board. 
+Under valgperioden kan et mistillidsvotum kun afgøres på en ekstraordinær generalforsamling. 
+Generalforsamlingens udkomme underskrives af formanden eller, i dennes fravær, af to bestyrelsesmedlemmer i fællesskab.
 
-There is no personal liability of the members of the association for the obligations which rests with the association.
+Bestyrelsen er beslutningsdygtig, når mere end halvdelen af bestyrelsens medlemmer er til stede. Beslutninger træffes ved simpelt flertal af de afgivne stemmer. Ved stemmelighed har formanden den afgørende stemme. Der skal føres referat af alle bestyrelsesmøder, som gøres tilgængeligt for alle bestyrelsesmedlemmer. Bestyrelsen afholder mindst to møder pr. kalenderår.
+Bestyrelsen har det overordnede ansvar for planlægning og afvikling af foreningens aktiviteter.
 
-# §10 Amendments
-The association's articles of association may be amended at the ordinary general meeting, but only if 4/6 of member votes cast for this.
+# §7 Økonomi
+Foreningens indtægter stammer fra:
+- Kontingenter
+- Sponsorater i forbindelse med afholdelse af arrangementer og konferencer
+- Merchandise
+- Overskud fra tidligere arrangementer og konferencer
 
-# §11 Dissolving
-Dissolving of the association can only take place at an ordinary general assembly meeting followed by one
-extraordinary general assembly. 
+Foreningens midler kan alene anvendes til foreningens formål som beskrevet i §1. Intet overskud må udloddes til medlemmer eller bestyrelsen. Ethvert overskud skal beholdes i foreningen og geninvesteres i dens aktiviteter.
 
-* There must be at least six weeks and a maximum of eight weeks between the two general assemblies.
-* At least 4/6 of the voters present must vote.
-* A written vote must always be made.
+# §8 Regnskab
+Foreningens regnskabsår følger kalenderåret.
+Bestyrelsen udarbejder årligt regnskab og budget, som præsenteres af kassereren og evalueres på den ordinære generalforsamling.
 
-In the event of dissolving, the assets of the association are given to charitable technology causes, which are decided during the dissolving general assembly.
+# §9 Tegning
+Foreningen tegnes udadtil af formanden alene eller af to bestyrelsesmedlemmer i forening. Ved optagelse af lån samt salg og pantsætning af fast ejendom tegnes foreningen af den samlede bestyrelse.
 
-# §12 Date of establishment
-Thus, adopted at the founding general assembly meeting on the 11th March 2025.
+Der påhviler ikke foreningens medlemmer nogen personlig hæftelse for de forpligtelser, der påhviler foreningen.
+
+Kassereren er bemyndiget til at foretage daglige bankdispositioner på foreningens vegne, herunder betaling af fakturaer og løbende udgifter. Enkeltudgifter, der overstiger 5.000 kr., kræver forudgående godkendelse fra formanden eller et flertal af bestyrelsen. Kassereren præsenterer en økonomisk statusrapport på hvert bestyrelsesmøde.
+
+# §10 Vedtægtsændringer
+Foreningens vedtægter kan ændres på en generalforsamling, men kun hvis 4/6 af de afgivne stemmer er for ændringen.
+
+# §11 Opløsning
+Opløsning af foreningen kan kun ske på en ordinær generalforsamling efterfulgt af en ekstraordinær generalforsamling.
+- Der skal gå mindst seks og højst otte uger mellem de to generalforsamlinger.
+- Mindst 4/6 af de stemmeberettigede tilstedeværende skal stemme for opløsningen.
+- Afstemningen skal altid foregå skriftligt.
+
+Ved opløsning overdrages foreningens aktiver til almennyttige teknologiformål, som besluttes på den opløsende generalforsamling.
+
+# §12 Stiftelsesdato
+Vedtaget på den stiftende generalforsamling den 11. marts 2025.
+Ændret på ekstraordinær generalforsamling den 22. juni 2026.

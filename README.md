@@ -29,10 +29,6 @@ The articles of association for BSides Aarhus can be found here:
 - Morten Eskildsen
 - Tobias Evar Lauridsen
 - Anna Dahl Andersen
-  
-## Meeting Minutes
-11/03 2025 - [Founding General Assembly (danish)](https://github.com/BSides-Aarhus/Association/blob/master/meetings/11032025%20-%20Referat%20-%20Stiftende%20Generalforsamling.pdf)  
-8/4 2025 - [Constituent Board Meeting (danish)](https://github.com/BSides-Aarhus/BSides-Aarhus-Association/blob/master/meetings/08042025%20-%20Referat%20af%20konstituerende%20bestyrelsesm%C3%B8de.pdf)  
 
 # Code of Conduct
 Our draft CoC can be found here:  
